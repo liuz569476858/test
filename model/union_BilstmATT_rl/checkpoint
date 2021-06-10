@@ -1,0 +1,2 @@
+model_checkpoint_path: "union_BilstmATT_rl_model.ckpt"
+all_model_checkpoint_paths: "union_BilstmATT_rl_model.ckpt"
